@@ -56,7 +56,7 @@ local function equipAndFireTool(toolName, toggleVar)
             print("Error sending event: " .. errorMessage)
         end
 
-        task.wait(0.05)  -- 1-second delay
+        task.wait(0.02)  -- 1-second delay
     end
 end
 
