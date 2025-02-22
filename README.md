@@ -1,1 +1,1 @@
-this script is mot free to edit
+Ligjt Hub V1!
