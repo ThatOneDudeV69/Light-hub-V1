@@ -7,7 +7,7 @@ local playeruser = game.Players.LocalPlayer.Name
 --// Create Main Window
 local Window = Rayfield:CreateWindow({
     Name = "Version 1.0.0 " .. game.Players.LocalPlayer.Name,
-    LoadingTitle = "Ligjt Hub V1",
+    LoadingTitle = "Light Hub V1",
     LoadingSubTitle = playeruser,
     ConfigurationSaving = {
        Enabled = false
