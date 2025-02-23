@@ -26,7 +26,7 @@ local Credits = Window:CreateTab("Credits", "info")
 local Misc = Window:CreateTab("Misc", 4483362458)
 
 --Variables for special stuff
-local DiscordInvite = "https://discord.gg/es55SJH2Db",
+local DiscordInvite = "https://discord.gg/es55SJH2Db"
 
 
 
