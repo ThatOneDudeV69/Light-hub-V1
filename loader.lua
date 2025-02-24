@@ -1,7 +1,7 @@
 
 --// Load Rayfield UI Library
 
-local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield")()
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local playeruser = game.Players.LocalPlayer.Name
 --// Create Main Window
